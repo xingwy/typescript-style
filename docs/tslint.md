@@ -72,7 +72,7 @@
   }
   ```
 
-- interface-name
+- interface-name  *
 
   定义接口名称要求大写'I'开头
 

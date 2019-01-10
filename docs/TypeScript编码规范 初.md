@@ -2,7 +2,7 @@
 
 [TOC]
 
-##**TypeScript编码规范 初**
+##**TypeScript编码规范**
 
 ### **一、文件结构约定**
 
