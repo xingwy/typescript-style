@@ -2,7 +2,7 @@
 
 
 
-##**ReadMe**
+## **ReadMe**
 
 - [**TS编码规范**](https://github.com/xingwy/typescript-style/blob/master/docs/TypeScript%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%20%E5%88%9D.md)
 - [**TSLint规则**](https://github.com/xingwy/typescript-style/blob/master/docs/tslint.md)
